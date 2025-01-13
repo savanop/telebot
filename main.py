@@ -14,7 +14,7 @@ phone = '+91number'
 
 # Target and output group links
 TARGET_GROUP = 'https://t.me/ktrlooters'
-OUTPUT_GROUP = 'https://t.me/hxhd72'
+OUTPUT_GROUP = 'https://t.me/hxffe2'
 
 # Constants for rate limiting
 MESSAGES_PER_BATCH = 200  # Number of messages to process before cooldown
